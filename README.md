@@ -3,9 +3,9 @@ Use command test code (Functions in nn.py):
   pytest test_nn.py
 
 My Scores: <br />
-* 8.2 RMSE for baseline on Auto MPG <br />
-* 5.5 RMSE for deep on Auto MPG <br />
-* 4.3 RMSE for wide on Auto MPG <br />
+* 8.2 RMSE for baseline on Auto MPG 
+* 5.5 RMSE for deep on Auto MPG 
+* 4.3 RMSE for wide on Auto MPG
 
 * 65.0% accuracy for baseline on del.icio.us <br />
 * 68.0% accuracy for relu on del.icio.us <br />
