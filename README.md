@@ -2,7 +2,7 @@
 Use command test code (Functions in nn.py):
   pytest test_nn.py
 
-My Scores:
+My Scores: <br />
 8.2 RMSE for baseline on Auto MPG <br />
 5.5 RMSE for deep on Auto MPG <br />
 4.3 RMSE for wide on Auto MPG <br />
