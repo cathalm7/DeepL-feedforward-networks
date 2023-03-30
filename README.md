@@ -1,3 +1,26 @@
+Use command test code (Functions in nn.py):
+  pytest test_nn.py
+
+My Scores:
+  test_nn.py 
+  8.2 RMSE for baseline on Auto MPG
+  5.5 RMSE for deep on Auto MPG
+  4.3 RMSE for wide on Auto MPG
+  .
+  65.0% accuracy for baseline on del.icio.us
+  68.0% accuracy for relu on del.icio.us
+  68.2% accuracy for tanh on del.icio.us
+  .
+  18.2% accuracy for baseline on UCI-HAR
+  87.1% accuracy for dropout on UCI-HAR
+  85.5% accuracy for no dropout on UCI-HAR
+  .
+  75.4% accuracy for baseline on census income
+  76.1% accuracy for early on census income
+  76.0% accuracy for late on census income
+
+
+--------------------------------------------------------------------------------
 # Objectives
 
 The learning objectives of this assignment are to:
