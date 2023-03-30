@@ -1,6 +1,10 @@
-# Information
-Use command test code (Functions in nn.py):
-  pytest test_nn.py
+--------------------------------------------------------------------------------
+# Objectives & My Results
+
+The learning objectives of this assignment are to:
+1. get familiar with the TensorFlow Keras framework for training neural networks.
+2. experiment with the various hyper-parameter choices of feedforward networks.
+
 
 My Scores:
 ```
@@ -21,13 +25,14 @@ My Scores:
   76.0% accuracy for late on census income
 ```
 
+Use command test: code (Functions in nn.py):
+```
+  pytest test_nn.py
+```
+
+
+
 --------------------------------------------------------------------------------
-# Objectives
-
-The learning objectives of this assignment are to:
-1. get familiar with the TensorFlow Keras framework for training neural networks.
-2. experiment with the various hyper-parameter choices of feedforward networks.
-
 # Setup your environment
 
 You will need to set up an appropriate coding environment on whatever computer
